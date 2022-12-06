@@ -17,4 +17,3 @@ const lastTitleEl = itemEl[2].firstElementChild.textContent;
 console.log("Category:", lastTitleEl);
 const lastEl = itemEl[2].lastElementChild.children.length;
 console.log("Elements:", lastEl);
-
