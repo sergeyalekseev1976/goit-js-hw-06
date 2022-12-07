@@ -24,3 +24,11 @@ button {
 #text {
   font-size: 16px;
 }
+.js-gallery {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+}
+.gallery-images {
+  height: 100px;
+}
